@@ -23,7 +23,6 @@ while True:
 
         episodeFrameUrl = episodeSoup.find('iframe')['src']
 
-        # http://flv.kataweb.it/deejay/audio/chiamate_roma_triuno_triuno/20180503.mp3
         episodeMp3Link = re.search('https?://flv.+\.mp3', episodeFrameUrl).group(0)
 
         print(episodeMp3Link)
