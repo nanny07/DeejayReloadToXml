@@ -1,0 +1,21 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0"
+     version="2.0">
+    <channel>
+        <title>Chiamate Roma Triuno Triuno</title>
+        <link>https://www.deejay.it/audio/?reloaded=chiamate-roma-triuno-triuno</link>
+        <language>it</language>
+        <itunes:image href="http://www.deejay.it/wp-content/uploads/2013/09/TRIUNO-150x150.jpg"/>
+        <item>
+            <title>Puntata del 3 Maggio 2018</title>
+            <link>https://www.deejay.it/audio/20180503-3/560732/</link>
+            <itunes:author>Chiamate Roma Triuno Triuno</itunes:author>
+            <itunes:summary>Puntata del 3 Maggio 2018</itunes:summary>
+            <guid>http://flv.kataweb.it/deejay/audio/chiamate_roma_triuno_triuno/20180503.mp3</guid>
+            <enclosure url="http://flv.kataweb.it/deejay/audio/chiamate_roma_triuno_triuno/20180503.mp3"/>
+            <pubDate>Thu, 03 May 2018 10:17:41 +0200</pubDate>
+        </item>
+    </channel>
+</rss>
